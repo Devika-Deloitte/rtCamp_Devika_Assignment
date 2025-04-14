@@ -1,0 +1,12 @@
+{
+  "name": "playwright-rtcamp-assignment",
+  "version": "1.0.0",
+  "description": "Playwright tests for rtcamp QA assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
